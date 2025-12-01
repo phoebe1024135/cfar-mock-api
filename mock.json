@@ -1,0 +1,5 @@
+{
+  "message": "Hello from Mock API!",
+  "status": "ok",
+  "value": 42
+}
